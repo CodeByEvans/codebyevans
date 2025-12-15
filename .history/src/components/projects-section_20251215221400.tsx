@@ -201,7 +201,7 @@ export const ProjectsSection = () => {
             onClick={() => setActiveProject(null)}
           >
             <motion.div
-              className="relative max-w-3xl w-full max-h-[90vh] mx-4 overflow-hidden rounded-2xl bg-neutral-900 shadow-2xl overflow-y-auto"
+              className="relative max-w-3xl w-full mx-4 overflow-hidden rounded-2xl bg-neutral-900 shadow-2xl"
               initial={{ scale: 0.9, opacity: 0, y: 30 }}
               animate={{ scale: 1, opacity: 1, y: 0 }}
               exit={{ scale: 0.95, opacity: 0, y: 20 }}
