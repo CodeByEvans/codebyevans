@@ -47,7 +47,7 @@ export const projects = [
     gradient: "from-blue-500/20 via-indigo-500/20 to-purple-500/20",
     status: "activo",
     url: "https://codebyevans.es/",
-    github: "https://github.com/CodeByEvans/codebyevans.git",
+    github: "https://github.com/CodeByEvans/portfolio.git",
   },
   {
     title: "AmandoAndo",
